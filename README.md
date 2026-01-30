@@ -1,5 +1,6 @@
 # bridgetthkechi87-cloud
-# About Me  I am a Cloud Security &amp; DevOps Engineer with hands-on experience in designing and securing cloud infrastructure across AWS and Azure. 
+# About Me 
+I am a Cloud Security &amp; DevOps Engineer with hands-on experience in designing and securing cloud infrastructure across AWS and Azure. 
 Technical Skills
 
 **Cloud:** AWS, Azure
